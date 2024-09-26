@@ -3,11 +3,11 @@
 My inspiration comes from impressionist paintings. First of all, I would love to create innovative creations based on this type of paintings. Here are some of the works I found.
 
 I come up with 2 ideas. 
-![An image of Monet](https://www.christies.com/lot/lot-claude-monet-nympheas-en-fleur-6134208/?from=searchresults&intObjectID=6134208&sid=62ac9b9b-e198-4ab0-822c-dfe3e55b7794)
-![An image of Monet](https://www.christies.com/zh-cn/lot/lot-6482945?ldp_breadcrumb=back)
-![An image of Monet](https://www.christies.com/lot/lot-6453115?ldp_breadcrumb=back&intObjectID=6453115&from=salessummary&lid=4)
+[link text](https://www.christies.com/lot/lot-claude-monet-nympheas-en-fleur-6134208/?from=searchresults&intObjectID=6134208&sid=62ac9b9b-e198-4ab0-822c-dfe3e55b7794)
+[link text](https://www.christies.com/zh-cn/lot/lot-6482945?ldp_breadcrumb=back)
+[link text](https://www.christies.com/lot/lot-6453115?ldp_breadcrumb=back&intObjectID=6453115&from=salessummary&lid=4)
 The first was to combine the different elements of the classics of Monet's work. If I could, I also wanted to restore the color blocks of the painting as delicately as possible in the form of a sand spiel. 
-![An image of Seurat](https://www.metmuseum.org/art/collection/search/437658)
+[link text](https://www.metmuseum.org/art/collection/search/437658)
 The second is to make the color particles move, and the figures and animals' heads move according to the mouse movement. 
 
 Tecniquies：
